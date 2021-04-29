@@ -17,7 +17,7 @@ allow us to quantify this degeneration and helps us maintain a medical history.
 The below implementation is an eye tracking system which is used for helping gather more information 
 from the ocular pursuit exercises performed by Huntington's disease patient.
 
-<img src="https://github.com/SaiPrahladh/Eye_tracking/blob/main/eye_track.gif" width="300" height="300" />
+<img src="https://github.com/SaiPrahladh/Eye_tracking/blob/main/ezgif.com-crop.gif" width="300" height="300" />
 
 ##### IMPLEMENTATION DETAILS AND DEPENDENCIES:
 1. Install numpy, cv2 and dlib. Instructions to install dlib which I followed can be found in the link below:
