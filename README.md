@@ -22,7 +22,7 @@ from the ocular pursuit exercises performed by Huntington's disease patient.
 ##### IMPLEMENTATION DETAILS AND DEPENDENCIES:
 1. Install numpy, cv2 and dlib. Instructions to install dlib which I followed can be found in the link below:
 https://www.pyimagesearch.com/2018/01/22/install-dlib-easy-complete-guide/
-2. Make sure that 'shape_68.dat' is present in your code folder or specify the path to import from.I downloaded
+2. Make sure that 'shape_68.dat' is present in your code folder or specify the path to import from. I downloaded
 this from the following repository: https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2 
 3. Install the requests library for pushing data into a database.
 
