@@ -12,7 +12,7 @@ will log the coordinates of the left and the right pupil throughout the duration
 calculate the horizontal and vertical range of the patient's eye movement. The logging of these ranges will
 allow us to quantify this degeneration and helps us maintain a medical history.
 
-##### CODE AND THEORY CREDITS: https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6
+##### REFERENCE: https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6
 
 The below implementation is an eye tracking system which is used for helping gather more information 
 from the ocular pursuit exercises performed by Huntington's disease patient.
